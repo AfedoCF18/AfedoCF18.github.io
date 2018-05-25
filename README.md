@@ -10,9 +10,9 @@
 <a href="https://afedocf18.github.io/PracticasBootstrap/PracticaBootstrap8.html">Practica 8</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/paginaprincipal.html">NISSAN MÉXICO</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/nissan%20sr20.html"> Nissan SR20 </a><br>
-<a href="https://afedocf18.github.io/ProyectowepGerardo/Nismo.html"></a><br>
-<a href="https://afedocf18.github.io/ProyectowepGerardo/NissanSeR.html"></a><br>
-<a href="https://afedocf18.github.io/ProyectowepGerardo/NissanGTR.html"></a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/Nismo.html">Nismo</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/NissanSeR.html">SeR</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/NissanGTR.html">GTR</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DE.html">SR20DL</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DEH.html"> SR20H</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/SR20VVL.html"> SR20VVL</a><br>
