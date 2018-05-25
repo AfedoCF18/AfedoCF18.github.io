@@ -11,10 +11,10 @@
 <a href=""Nissan Nismo</a><br>
 <a href=""Nissan SE-R</a><br>
 <a href=""Nissan GT-R</a><br>
-<a href=""Nissan SR20</a><br>
-<a href=""Nissan SR20DL</a><br>
-<a href=""Nissan SR20H</a><br>
-<a href=""Nissan SR20VVL</a><br>
-<a href=""Nissan SR20DET</a><br>
-<a href=""Nissan SR20VET</a><br>
-<a href=""Modificaciones</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/nissan%20sr20.html" Nissan SR20</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DE.html"Nissan SR20DL</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DEH.html"Nissan SR20H</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/SR20VVL.html"Nissan SR20VVL</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DET.html"Nissan SR20DET</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/SR20VET.html"Nissan SR20VET</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/modificaciones.html "Modificaciones</a><br>
