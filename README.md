@@ -19,3 +19,4 @@
 <a href="https://afedocf18.github.io/ProyectowepGerardo/SR20DET.html">SR20DET</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/SR20VET.html">SR20VET</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/modificaciones.html"> Modificaciones</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/Galeriasr20.html">GaleríaSr20</a><br>
