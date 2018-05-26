@@ -21,3 +21,4 @@
 <a href="https://afedocf18.github.io/ProyectowepGerardo/modificaciones.html"> Modificaciones</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/Galeriasr20.html">GaleríaSr20</a><br>
 <a href="https://afedocf18.github.io/ProyectowepGerardo/TheFamilyQR.html">The QR Family</a><br>
+<a href="https://afedocf18.github.io/ProyectowepGerardo/GaleriaQR.html">Galería QR</a><br>
